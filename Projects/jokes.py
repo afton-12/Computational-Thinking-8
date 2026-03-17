@@ -1,0 +1,5 @@
+color = input ("What is your favorite color?")
+print(f"{color}, that is a great color!")
+print("Here is a joke: How do you put a baby alien to sleep?")
+input("")
+print("You rocket!")
