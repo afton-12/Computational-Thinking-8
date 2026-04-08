@@ -21,7 +21,7 @@ else:
 answer3 = input("Do you like A: shaved ice, B: hot chocolate, or C: pizza?")
 if answer3 == "A":
     Hawaii_points += 1
-elif answer3 == "B" or "C":
+elif answer3 == "B" or answer3 == "C":
     NewYork_points += 2
 
 answer4 = input("Do you like A: sunny weather, B: snowy weather, or C: windy weather?")
